@@ -1,0 +1,9 @@
+# Author: dlash
+# date: 9/14/2019
+
+choice = "Y"
+while choice.lower() == "y":
+    print( f"Hello choice:{choice}")
+    choice = input("Say hello again?")
+
+print("I am done with you")
