@@ -9,3 +9,5 @@ die2 = random.randint(1,6)
 print(f"die2:{die2}")
 roll = die1 + die2
 print(f"You rolled:{roll}")
+
+print("We are done")
